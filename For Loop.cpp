@@ -1,4 +1,4 @@
-//For Loop | HackerRank
+//Solve C++ | HackerRank
 //In this challenge, you will use a for loop to increment a variable through a range.
 //Input Format
 //You will be given two positive integers,a  and b (a<=b), separated by a newline.
